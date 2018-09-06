@@ -5,7 +5,8 @@ Collection of thoughts, strategies and prep material to pass the aws cert exams.
 ## Motivation
 
 Play with your mind to create a trap for yourself to study for the exam.
-- This works best for me: Pay for the Certification exam and schedule it. Now you will have to fight to get the worth of your the money and also avoid retake fee, or the chances are, your company pays for your cert only if you pass. 
+- Pay for the Certification exam and schedule it. 
+- Now you will have to fight to get the worth of your the money and also avoid retake fee, or the chances are, your company pays for your cert only if you pass. 
 - Have to win: You are the kind of person who never loses. So don't hurt your ego by failing. 
 - Avoid embarrassment: Declare to your manager or co-workers that you are planning to take the exam. Save your face.
 - If X can do it, I can too. 
