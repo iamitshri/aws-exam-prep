@@ -14,12 +14,13 @@ Find what works for you and what has worked with most test takers. You may have 
 
 
 ## During Preparation
-- To survive listening to all the videos:  increase the video playback speed to ~1.5x 
+
+- To survive listening to all the videos:  increase the video playback speed to ~1.5x [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 - Take screenshots if you come across a block digram or description that helps summarize the broader topic
 - Read FAQ
 - Read whitepapers  
 - Read documentation https://aws.amazon.com/documentation/
-- Creating your own notes 
+- **Creating your own notes**
 - **Hands on practice to basically play with aws services**
 - aws reinvent videos, take screenshots/notes & save them in one-note or similar app to review later  
 - Student experiences from the acloud.guru website
@@ -31,10 +32,10 @@ Find what works for you and what has worked with most test takers. You may have 
 
 ## During Exam
 
-- Eliminate wrong answers
+- Eliminate wrong answers.
+- When choosing best way to do something, see if aws is pointing you to use their latest service compared to the older alternative. 
 - When in doubt, mark for review and come back later, dont spent more time in one question.
-- Sysops Each question has almost 80 seconds (60 question in 80 minutes)
-
+  
  
 ### Resources
 
