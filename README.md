@@ -61,6 +61,9 @@ During Exam:
 
 -  Lynda: AWS Certified Sysops administrator: Overview of the exam <https://www.lynda.com/Amazon-Web-Services-tutorials/Cert-Prep-AWS-Certified-SysOps-Administrator/622074-2.html>
 
+
+#### Articles
+
 - Reading articles like these: <http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html>
 
 
