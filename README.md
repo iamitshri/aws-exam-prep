@@ -11,14 +11,9 @@ Play with your mind to either save money by avoiding retake fee. Chances are, yo
 Find what works for you and what has worked with most test takers. You may have access to multiple preparatory courses on platforms like udemy, pluralsight, lynda, acloudguru, linuxacademy etc. Stick to one source for the majority of your preparation. Once confident, fill in the gaps with other sources. After you carefully choose one source for your preparation, sticking to it for covering the exam syllabus reduces mental fatigue, saves time and reduces anxiety due to switching between platforms multiple times. 
 
 
-- Follow AWS blogs to stay up to date: <https://aws.amazon.com/blogs>
-
-- Jeff Barr writes about  updates to services:  <https://aws.amazon.com/blogs/aws/author/jbarr/>
 
 
-
-
-During Preparation
+## During Preparation
 - To survive listening to all the videos:  increase the video playback speed to ~1.5x 
 - Take screenshots if you come across a block digram or description that helps summarize the broader topic
 - Read FAQ
@@ -30,12 +25,14 @@ During Preparation
 - Student experiences from the acloud.guru website
 - After you get a wrong answer in your test exams, read related documentation to solidify the understanding
 
-Just Before Exam
-- Go through your notes & screenshots to revise specific concepts
+## Just Before Exam
 
-During Exam:
+- Go through your notes & screenshots to revise concepts
+
+## During Exam
+
 - Eliminate wrong answers
-- Mark for review and come back later 
+- When in doubt, mark for review and come back later, dont spent more time in one question.
 - Sysops Each question has almost 80 seconds (60 question in 80 minutes)
 
  
@@ -46,8 +43,9 @@ During Exam:
 - Whizlab practice exams for AWS Certified SysOps Administrator - Associate 
 - acloud.guru practice exams
 
-#### Open document maintained by aws experienced folks 
+#### Github document maintained by experienced folks 
 - https://github.com/open-guides/og-aws
+
 
 #### Courses
 
@@ -62,7 +60,11 @@ During Exam:
 -  Lynda: AWS Certified Sysops administrator: Overview of the exam <https://www.lynda.com/Amazon-Web-Services-tutorials/Cert-Prep-AWS-Certified-SysOps-Administrator/622074-2.html>
 
 
-#### Articles
+#### Articles/Blogs
+
+- Follow AWS blogs to stay up to date: <https://aws.amazon.com/blogs>
+
+- Jeff Barr writes about  updates to services:  <https://aws.amazon.com/blogs/aws/author/jbarr/>
 
 - Reading articles like these: <http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html>
 
