@@ -11,8 +11,6 @@ Play with your mind to either save money by avoiding retake fee. Chances are, yo
 Find what works for you and what has worked with most test takers. You may have access to multiple preparatory courses on platforms like udemy, pluralsight, lynda, acloudguru, linuxacademy etc. Stick to one source for the majority of your preparation. Once confident, fill in the gaps with other sources. After you carefully choose one source for your preparation, sticking to it for covering the exam syllabus reduces mental fatigue, saves time and reduces anxiety due to switching between platforms multiple times. 
 
 
-
-
 ## During Preparation
 
 - To survive listening to all the videos:  increase the video playback speed to ~1.5x [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
@@ -20,8 +18,8 @@ Find what works for you and what has worked with most test takers. You may have 
 - Read FAQ
 - Read whitepapers  
 - Read documentation https://aws.amazon.com/documentation/
-- **Creating your own notes**
-- **Hands on practice to basically play with aws services**
+- **Create your own written notes** Summarize topic in your own words when writing it on the paper.
+- **Do lots of hands on practice to play with aws services**
 - aws reinvent videos, take screenshots/notes & save them in one-note or similar app to review later  
 - Student experiences from the acloud.guru website
 - After you get a wrong answer in your test exams, read related documentation to solidify the understanding
